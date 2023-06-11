@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Making User Interface</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Slogan1">Track your Comfort \n Food here</string>
+    <string name="subSlogan1">Here you can find a chef or dish for every \n taste and color. Enjoy!</string>
+    <string name="Next">Next</string>
+</resources>

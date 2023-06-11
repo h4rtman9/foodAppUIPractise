@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MakingUserInterface" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MakingUserInterface" parent="Base.Theme.MakingUserInterface" />
+    <style name="SolidButton">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">0dp</item>
+        <item name="backgroundTint">#EC2578</item>
+        <item name="android:layout_width">158dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+</resources>
